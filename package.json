@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "echarts": "^5.0.0",
+    "vue": "^2.6.12",
+    "vue-hot-reload-api": "^2.3.4"
+  },
+  "devDependencies": {
+    "@types/echarts": "^4.9.3",
+    "@types/vue": "^2.0.0",
+    "@vue/component-compiler-utils": "^3.2.0",
+    "vue-template-compiler": "^2.6.12"
+  }
+}
